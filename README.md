@@ -7,7 +7,7 @@ Assemble the car as shown in the previous class.
 Make the connections from the Raspberry Pi GPIO pins to the L298n as shown in the photos in the Working_WASD folder of the repository.
 
 ### c) Third
-Test your WASD control for the car.
+Now create and copy paste the code from WASD_control.py file to your pi and test your WASD control for the car. If you have made all the connections correctly then your car should run.
 
 ## **Important Error** 
 Try running
