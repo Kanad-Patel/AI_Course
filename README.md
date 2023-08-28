@@ -10,7 +10,10 @@
 : Test your WASD control for the car.
 
 ## **Important Error** 
-: Try running '''pi@raspberrypi:~$ sudo apt-get update && sudo apt-get upgrade''' 
+: Try running 
+'''
+pi@raspberrypi:~$ sudo apt-get update && sudo apt-get upgrade
+''' 
 
 
 ## Installing OpenCV on your Pi.
