@@ -1,10 +1,18 @@
 # AI_Course
 ## Steps for car
-First
+### First
 : Assemble the car as shown in the previous class.
 
-Second
+### Second
 : Make the connections from the Raspberry Pi GPIO pins to the L298n as shown in the photos in the Working_WASD folder of the repository.
 
-Third
+### Third
 : Test your WASD control for the car.
+
+## **Important Error** 
+: Try running '''console pi@raspberrypi:~$ sudo apt-get update && sudo apt-get upgrade''' 
+
+
+## Installing OpenCV on your Pi.
+
+
