@@ -18,7 +18,7 @@ sudo apt-get update && sudo apt-get upgrade
 
 ### If you get an error stating 404 No accelerator found,
 
-You will have to change the repository mirror of the Pi.
+You will have to change the repository mirror of the Pi. Run this command on your pi terminal.
 
 ```console
 sudo nano /etc/apt/sources.list
