@@ -11,7 +11,7 @@
 
 ## **Important Error** 
 : Try running 
-'''
+'''console
 pi@raspberrypi:~$ sudo apt-get update && sudo apt-get upgrade
 ''' 
 
