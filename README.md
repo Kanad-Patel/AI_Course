@@ -35,4 +35,6 @@ To install OpenCV on your Pi follow this video -_https://www.youtube.com/watch?v
 
 Just make sure to use using **pip3 install** instead of **pip install** in the final step of the video.
 
+Other useful link to install both TensorFlow and OpenCV -_https://www.youtube.com/watch?v=vekblEk6UPc_
+
 
