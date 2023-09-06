@@ -1,5 +1,5 @@
 # AI_Course
-## 1) Steps for car
+##  Steps for car
 ###  a) First
 Assemble the car as shown in the previous class.
 
@@ -37,4 +37,24 @@ Just make sure to use using **pip3 install** instead of **pip install** in the f
 
 Other useful link to install both TensorFlow and OpenCV -_https://www.youtube.com/watch?v=vekblEk6UPc_
 
+##  Steps for car with text recognition
 
+Install "picamera[array]" to operate the picamera using python code.
+```console
+pip3 install "picamera[array]"
+```
+Install tesseract-ocr and its tools
+```console
+sudo apt install tesseract-ocr
+```
+```console
+sudo apt install libtesseract-dev
+```
+```console
+sudo pip install pytesseract
+```
+Check your installations using 
+```console
+tesseract --version
+```
+Useful links for tesseract _https://maker.pro/raspberry-pi/tutorial/optical-character-recognizer-using-raspberry-pi-with-opencv-and-tesseract_ , _https://tutorials-raspberrypi.com/raspberry-pi-text-recognition-ocr/_
